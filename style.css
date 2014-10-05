@@ -1,0 +1,74 @@
+.marquette{
+	margin-top:50px;
+	margin-right:100px;
+	margin-left:200px;
+	height:250px;
+}
+.name {
+	font-family: American Typewriter;
+	color: #FF3300;
+	font-size: 75px;
+	margin-top:-150px;
+	margin-left:450px;
+}
+.buttonscontent {
+	position:relative;
+	float: left;
+	z-index:21;
+	width:240px;
+	height: 153px;
+}
+.one{
+	position: absolute;
+	right: -100px;
+	top:3px;
+	width:200px;
+	height:25px;
+	z-index:25;
+}
+.two{
+	border: none;
+	position: absolute;
+	right: -100px;
+	top: 33px;
+	width: 200px;
+	height: 25px;
+	z-index: 25;
+}
+
+.three{
+	border: none;
+	position: absolute;
+	right: -100px;
+	top: 63px;
+	width: 200px;
+	height: 25px;
+	z-index: 25;
+}
+.four{
+	border: none;
+	position: absolute;
+	right: -100px;
+	top: 93px;
+	width: 200px;
+	height: 25px;
+	z-index: 25;
+}
+.content{
+	vertical-align: 
+	font-family: Verdana;
+	font-size: 13px;
+	color: #3f3f3f;
+	font-weight: normal;
+	font-style: normal;
+	width: 467px;
+}
+}
+.text1{
+	font-family: Verdana;
+	font-size: 13px;
+	color: #3f3f3f;
+	font-weight: normal;
+	font-style: normal;
+	width: 467px;
+}
